@@ -1365,12 +1365,12 @@
     "url": "https://codeberg.org/claymorwan/dms-plugins"
   },
   "mediaPlayer": {
-    "date": "2025-12-29T19:44:05+06:00",
+    "date": "2026-02-02T22:16:47+06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-z6FiXXg938TefqDSbg64y2mdIZgwAAX90QlOOx7Ck30=",
+    "hash": "sha256-WxFhGi1HRt9e9wJdt0KA2UMjUfGoV1Wnjv3yHOBmtD4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Abdur Rahman Rifat",
@@ -1394,10 +1394,10 @@
       "screenshot": "https://raw.githubusercontent.com/arrifat346afs/mediaPlayer/refs/heads/main/screenshot_8.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/sjjydzj4712h35pi4c7frpdnpffrj5j7-mediaPlayer",
-    "rev": "4d73e6c810f85093339eb6cc6dad251ea6c15b04",
+    "path": "/nix/store/3hvbv22i0fd34r97308fasn8lziymx29-mediaPlayer",
+    "rev": "56ec160ed3fe32ad55b920ff462727d918b6eb51",
     "rootDir": "",
-    "sha256": "0zckq8g3nkh9s7yha01hk0hrssfbp076xlm0gvgc9prxg1fn58fg",
+    "sha256": "0gmlcvh1rwpxiskmamx8y58j6hyrh11bfp82yxgdyij75ld624av",
     "url": "https://github.com/arrifat346afs/mediaPlayer"
   },
   "nepaliCalendar": {
@@ -1435,12 +1435,12 @@
     "url": "https://github.com/AC17dollars/dms-nepali-calendar"
   },
   "niriWindows": {
-    "date": "2026-01-28T22:07:43Z",
+    "date": "2026-02-02T09:34:56Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Vri/kC7wbhFXu2QlJt0XVs1QruVs7POCT+ErUiW5Ohk=",
+    "hash": "sha256-KkB+xq4AObTqTDxtBVqfCsnxn0jnNk3iM4vpk9jlEBA=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -1461,12 +1461,12 @@
       "repo": "https://github.com/rochacbruno/DankNiriWindows",
       "requires_dms": ">0.1.18",
       "screenshot": "https://github.com/rochacbruno/DankNiriWindows/raw/main/screenshot.png",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
-    "path": "/nix/store/rhjrippmcdfjv44bfp0mr1l1kgvfdiq0-DankNiriWindows",
-    "rev": "2ae932e21a4491af27329dfff8b4f1514d0a4657",
+    "path": "/nix/store/nbplcqnalqji5s6f40f3y30vdxcbigs7-DankNiriWindows",
+    "rev": "b866af4cb599e7eeae90779b959f56b1a9905f18",
     "rootDir": "",
-    "sha256": "069sp4jm4az19y1g7v3cwnp51kan2zfjc9b4pdbi2vph5s8bzf2n",
+    "sha256": "040hwpc97scb6gi4sdp792gz3j8akxd0av9w9kmb8f80mv37wh1a",
     "url": "https://github.com/rochacbruno/DankNiriWindows"
   },
   "nixMonitor": {
