@@ -1110,12 +1110,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-02-07T17:19:21+08:00",
+    "date": "2026-02-09T19:06:55+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-1pwNqCwkZfTvMCAlcatDKiiyamtEWT6i18P2hT6LcL8=",
+    "hash": "sha256-dwvV8Pn5PgM1xHZrPFlZKwG3uxPL0VW4orCXYKeVDuI=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -1141,10 +1141,10 @@
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
       "version": "1.2.5"
     },
-    "path": "/nix/store/5lr71qnbws418xw1byzf10az1s653v4b-dms-plugin-hass",
-    "rev": "2af0fafaf55e32f379890e06dfa5d9466b55c33d",
+    "path": "/nix/store/zahz7n3ynn7mlrl419nx0768fx3p372f-dms-plugin-hass",
+    "rev": "b2bdcc9997b0a2f7129e65bb9511bdeef6cd636f",
     "rootDir": "",
-    "sha256": "1gvhicz8bxn3syi3wna4ddmb4a1a8fmp299063pz8r945jl0v76n",
+    "sha256": "1qhfjnkn15xhlaw5blfb2fxvf09bb5ckqsvnqhsh6gprz7qda2vp",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {
@@ -1294,12 +1294,12 @@
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "lyricsOnPanel": {
-    "date": "2026-01-22T03:52:33-06:00",
+    "date": "2026-02-09T10:44:16-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AjOfNUfw6oU13KFOGcRzAF48I1faLiWwWqcgsmBmc80=",
+    "hash": "sha256-B4Whv9j05XdnA1HnHEXqOVNUCir24sJh4IkAkZNoNJ8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Kangwei(Anicaa) Zhu",
@@ -1323,10 +1323,10 @@
       "screenshot": "https://github.com/KangweiZhu/lyrics-on-panel/raw/main/img/image-panel-onlythiswidget.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/ckhzi6gv97m9b9000z2wlk5c6viv37ix-lyrics-on-panel",
-    "rev": "1a2f22842234248f50f3b91b5f5ceecf5ae91496",
+    "path": "/nix/store/ajmwms4pg5f495agqj2bp3iz2yj3fj5n-lyrics-on-panel",
+    "rev": "3d0d75603bbd05d8e96f4128bbe14dbcb53de6b0",
     "rootDir": "",
-    "sha256": "1kbkcrhb4857baq2abnsawikqph0fg21jkm1vhsqbsph8wsrycq2",
+    "sha256": "17rld29r2049w1hw5qpn58558lrrx92irrsi0dkpgrglv2zs3187",
     "url": "https://github.com/KangweiZhu/lyrics-on-panel"
   },
   "mediaFrame": {
@@ -1574,12 +1574,12 @@
     "url": "https://github.com/Daniel-42-z/dms-power-usage"
   },
   "prayerTimes": {
-    "date": "2026-01-14T08:18:54+07:00",
+    "date": "2026-02-09T15:31:25+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-DJ/ykc0IFW0iFWqRA2/Tp5SpfA0KGfe6dURu8Fbn/Lc=",
+    "hash": "sha256-8PSVJmAWXekMMEUou4tHZvUQxfz6hzuOkXUYjBD1Rr0=",
     "leaveDotGit": false,
     "meta": {
       "author": "muadz",
@@ -1601,10 +1601,10 @@
       "screenshot": "https://raw.githubusercontent.com/muadzmo/prayertimes/refs/heads/main/screenshot.png",
       "version": "0.0.1"
     },
-    "path": "/nix/store/pi07870qpm73mzsch14qnf571dscrm4p-prayertimes",
-    "rev": "df15a8a27f7e04f9d65306bacce23a69dd79bdac",
+    "path": "/nix/store/6nx56r6f7k64hld21kh10pd09w7f80b3-prayertimes",
+    "rev": "5e77293ce6a30ce12a244fe6ed980222af3a1d00",
     "rootDir": "",
-    "sha256": "1dzwwxbg0vj4fnxgf68a1myak557sdph74ba2li6s588rn8z57qc",
+    "sha256": "1ga6yl88q63mj673p1zszk2i1xb68y5vna25606fjp8nc0k9bx7h",
     "url": "https://github.com/muadzmo/prayertimes"
   },
   "pulsarX3": {
