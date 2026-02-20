@@ -1574,12 +1574,12 @@
     "url": "https://github.com/Daniel-42-z/dms-power-usage"
   },
   "prayerTimes": {
-    "date": "2026-02-19T08:37:45+07:00",
+    "date": "2026-02-19T10:37:18+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-WeKfPVezmGaph3TryI2SbbeTEoArLJvY0bdCYM4s8nU=",
+    "hash": "sha256-RYqRThCYY+Dlk+eV9Am2LZkjVPrkE0LWtHozL24+mgc=",
     "leaveDotGit": false,
     "meta": {
       "author": "muadz",
@@ -1601,10 +1601,10 @@
       "screenshot": "https://raw.githubusercontent.com/muadzmo/prayertimes/refs/heads/main/screenshot.png",
       "version": "0.0.1"
     },
-    "path": "/nix/store/8nd0vrqwkvdmdghbyjh88ayvl5f5qgba-prayertimes",
-    "rev": "995628c9d025bae19aa98a87c44043fa360fe9f7",
+    "path": "/nix/store/jiw7yyj550xyxlhw2f2kwdqc6b1dkbc8-prayertimes",
+    "rev": "c6dac9d6310580cecc9d2eb8b8e87100cceeb866",
     "rootDir": "",
-    "sha256": "0xgj5k760hmps7c9nb1bh0997dvdja6wisvlhylnd65kawyrzqjr",
+    "sha256": "01ws7rp2ycvsnkb444z4z9a2769dnq4z95g7jgjy0qwq217932j5",
     "url": "https://github.com/muadzmo/prayertimes"
   },
   "pulsarX3": {
@@ -1644,12 +1644,12 @@
     "url": "https://github.com/jonkristian/dms-pulsar-x3"
   },
   "sathiAi": {
-    "date": "2026-02-11T16:05:40-05:00",
+    "date": "2026-02-18T21:29:24-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-4mG7x4YYxlKmoaUsHcWH1MLrJevdyWFHUx03K4SySF4=",
+    "hash": "sha256-/Zfcb7PHMUhsfR+43GBP1seXd0rFksCoPjoLHFu7IfA=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -1669,12 +1669,12 @@
       "name": "Sathi.AI",
       "repo": "https://github.com/ss44/sathi.ai",
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
-      "version": "1.6.0"
+      "version": "1.6.2"
     },
-    "path": "/nix/store/cvbxph7cxvlhnfkifcqbsj0qimf0syvz-sathi.ai",
-    "rev": "d9fde553905346893a4a29ef889163bd8df330c9",
+    "path": "/nix/store/063r6p8zdjvqinhrdnr0wkpn66kpn28m-sathi.ai",
+    "rev": "92ffa151fd4780e904bda9f3e6d336c046f61fd5",
     "rootDir": "",
-    "sha256": "0pj8na22ndqxad3n3jfxxcjyphnlhz2isb55l6k55ihqhv3vnqg2",
+    "sha256": "1w11pddiq2rs7slc14n599vrgiyn9xhdrf0zgmn4hcf7ndpxr5zx",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "sessionPower": {
