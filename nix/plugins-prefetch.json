@@ -1936,12 +1936,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "wallpaperShufflerPlugin": {
-    "date": "2026-02-10T13:10:39+08:00",
+    "date": "2026-03-12T20:53:22+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Y7Sw5cNVkNeq1srR7PRrbI8G/eR5yVKNACr3vJI2iIw=",
+    "hash": "sha256-lOtFoF8BPqaDrSoDzqGzO7aSro/dATiatVxFp4sdeqA=",
     "leaveDotGit": false,
     "meta": {
       "author": "Daniel-42-z",
@@ -1963,10 +1963,10 @@
       "screenshot": "https://raw.githubusercontent.com/Daniel-42-z/dms-wallpaper-shuffler/refs/heads/main/screenshot.png",
       "version": "1.0.2"
     },
-    "path": "/nix/store/7jzzrvghlr5wx98n2v3k2zfy7hgz3l6v-dms-wallpaper-shuffler",
-    "rev": "1c375270ec89e54f33c7ec7060241e70480ca55e",
+    "path": "/nix/store/35gxklc7jl87vbd0wikhqqc5dbds9f64-dms-wallpaper-shuffler",
+    "rev": "8acdaf1aad2bbd3425fdd57e215fca295b80cbdd",
     "rootDir": "",
-    "sha256": "13486s9brxra026m5jbrwkyhd3vcdgsfrlfassmdg42mqgjv1d33",
+    "sha256": "183s3n5sfiawnnd3h0fxiyp95divnfhww0ramn1scgh1byh4bswl",
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
   },
   "webSearch": {
