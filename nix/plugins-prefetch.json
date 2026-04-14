@@ -517,12 +517,12 @@
     "url": "https://github.com/mcwiseman97/dms-canvas-plugin"
   },
   "catWidget": {
-    "date": "2026-02-19T21:05:09+01:00",
+    "date": "2026-04-13T11:27:25+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KG5hWnDMwLxnhVVEs7giyjHOW4zoZNnwWA5fqXPhou4=",
+    "hash": "sha256-KD2G805Hq0K9aPW9Aq4hNo2XKji4kzdc24M4AcRhsPk=",
     "leaveDotGit": false,
     "meta": {
       "author": "kemo",
@@ -544,10 +544,10 @@
       "screenshot": "https://github.com/xi-ve/dms-plugin-registry/blob/add-cat-widget/assets/cat-widget.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/wjz525ai5jk4nphpndhb7pqy26vxyfyn-cat-dms",
-    "rev": "682c6989362ce4424ea3d3abf1c843d8e7be5aa6",
+    "path": "/nix/store/scmj36il7n8h6v46b9k4ifn3y6n276ha-cat-dms",
+    "rev": "eb7b5138b672be3c06445dd80de6bc30c3076030",
     "rootDir": "",
-    "sha256": "1vm2w5rsjpqfb3qdjr78iidwwcfa4awb6i2mhmkvrh6cf1d62vi8",
+    "sha256": "1ydhc7202f43vdf3g4xq70m9g39n46p05ggmd2yl5as79vrqcg98",
     "url": "https://github.com/xi-ve/cat-dms"
   },
   "cavaVisualizer": {
@@ -4020,12 +4020,12 @@
     "url": "https://github.com/max72bra/DankPluginBingWallpaper"
   },
   "wallpaperCarousel": {
-    "date": "2026-03-31T05:47:23Z",
+    "date": "2026-04-13T14:02:08Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KI6h0qFbyck3i4fP3BTrnyrjNO3f2kycjRJeJ0ZpsPM=",
+    "hash": "sha256-anAGWzTdzC4M1W/gprCGugHy4/eYoJ4L45URR+eACnA=",
     "leaveDotGit": false,
     "meta": {
       "author": "yngwe",
@@ -4049,10 +4049,10 @@
       "screenshot": "https://raw.githubusercontent.com/motor-dev/wallpaperCarousel/refs/heads/main/screenshot.png",
       "version": "0.7.6"
     },
-    "path": "/nix/store/v3xy18n4j0pp1wqvfm445sv98b7avl7y-wallpaperCarousel",
-    "rev": "1029878e896e04d94fb5bb838046493de373b495",
+    "path": "/nix/store/v5q5jzxva50pkspdcs7qaakky5zxzvxn-wallpaperCarousel",
+    "rev": "9d558cce3bb544fc6467e26ec450ab8087b2fda2",
     "rootDir": "",
-    "sha256": "1wxhd532fphjinf4rnnzxlsf6alzxcadrkw7icvwkjavl79a33i8",
+    "sha256": "0w0ah3klf4cmwc5rx84qyziz40dshsqadq3gsl62xk6x6idhcw3a",
     "url": "https://github.com/motor-dev/wallpaperCarousel"
   },
   "wallpaperDiscovery": {
