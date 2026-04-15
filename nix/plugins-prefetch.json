@@ -2319,12 +2319,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-04-10T21:38:05+08:00",
+    "date": "2026-04-15T09:04:22+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-i7FMwh/r6eh9bBzApG+OHnqL9dMLnRibrbqcXPlsrvc=",
+    "hash": "sha256-449RL8yupGo9mcsRuLTe48C5xpfZRtE+qPZzoKx2Qdk=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -2349,12 +2349,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "2.0.0"
+      "version": "2.0.1"
     },
-    "path": "/nix/store/3pa0q6d3lb8jq54bspqpjjhn1ls10nmp-dms-plugin-hass",
-    "rev": "f0950da9cd9f59f25ad1c8451898f986bf79ee7f",
+    "path": "/nix/store/j68lczwj26hjn2zh9pdl3chzxa7v708v-dms-plugin-hass",
+    "rev": "40a63ed3f40323fe186082403629309c8acd25b9",
     "rootDir": "",
-    "sha256": "1xxfdkwmr75smndii78bsgsqnyhyirps9h0wdiyyisgb3z14rccb",
+    "sha256": "1na1fsna0wznm0zd2inrjz3bkh73vssbh4fbk4ynm95frhpm33z3",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {
@@ -3180,12 +3180,12 @@
     "url": "https://github.com/Daniel-42-z/dms-power-usage"
   },
   "prayerTimes": {
-    "date": "2026-02-28T06:59:55+07:00",
+    "date": "2026-04-14T11:53:20+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-i8uSJytzGPcD/CzustEQHFVaD4FuHRxEKDq+aIixLcI=",
+    "hash": "sha256-BfA1uN/xqw7uhmE+/caTfbP23rzsA2kq2yx9P26Cgkg=",
     "leaveDotGit": false,
     "meta": {
       "author": "muadz",
@@ -3205,12 +3205,12 @@
       "name": "Prayer Times",
       "repo": "https://github.com/muadzmo/prayertimes",
       "screenshot": "https://raw.githubusercontent.com/muadzmo/prayertimes/refs/heads/main/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/ppy43w7fax7pa561vhnxmk8a3qd6c5zq-prayertimes",
-    "rev": "8c53ea678170889b48368b1f79eb68fb6f0aa111",
+    "path": "/nix/store/r72mxh028wjkbqydqdmvlgi6qlb37lkd-prayertimes",
+    "rev": "82b16b235d3f06101d79f04529a1a32b4d32fe2c",
     "rootDir": "",
-    "sha256": "1hidn646igis5121q7bfh47mlm8w238v5viczh1zf63k5ckr5jwb",
+    "sha256": "0j42h9p3yz9cvcm6j0zcpkggdcvxjg3gsgk1hvp0xazivyw3bw05",
     "url": "https://github.com/muadzmo/prayertimes"
   },
   "pulsarX3": {
