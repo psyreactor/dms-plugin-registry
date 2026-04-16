@@ -153,12 +153,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
-    "date": "2026-04-01T20:11:12+02:00",
+    "date": "2026-04-15T20:02:21+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-1pj0fR+im5PmeEnb3KElN8sEExeK25Sw61CPF2yZEmg=",
+    "hash": "sha256-kuOVeQ7w2mp6aALiUnq6FK0V1SI5YgIb+3a/CwQWV6I=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -180,12 +180,12 @@
       "name": "AMD GPU Monitor",
       "repo": "https://github.com/navidagz/dms-amd-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshot.png",
-      "version": "2.0.0"
+      "version": "3.0.0"
     },
-    "path": "/nix/store/3b88h7syv3m0q7ay5clfsz44zi29ql2y-dms-amd-gpu-monitor",
-    "rev": "e829038f44431749c0aad35f6401cf8b2996d2f7",
+    "path": "/nix/store/n8yw7xxk2s418np82qgjghx7i8v6ab7p-dms-amd-gpu-monitor",
+    "rev": "85cc3a2ace9b1c6e3ab4d4528e617159b1f8780e",
     "rootDir": "",
-    "sha256": "0s0jk5n1g3shxfq99nwa2w9h9jrp4nhxrns9g3k976x23xyz966n",
+    "sha256": "18jp2q20pgvnzcdh4qir4baibb8lp9x55qh2d1x6mnph1rwrbqwj",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "animeCalendar": {
@@ -2319,12 +2319,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-04-15T09:04:22+08:00",
+    "date": "2026-04-15T15:16:16+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-449RL8yupGo9mcsRuLTe48C5xpfZRtE+qPZzoKx2Qdk=",
+    "hash": "sha256-Vtj19qIh9TX8s3fZ1BA0IWbokrkWsX6693m1yj6PTWw=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -2349,12 +2349,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "2.0.1"
+      "version": "2.0.2"
     },
-    "path": "/nix/store/j68lczwj26hjn2zh9pdl3chzxa7v708v-dms-plugin-hass",
-    "rev": "40a63ed3f40323fe186082403629309c8acd25b9",
+    "path": "/nix/store/4k94nhdm5ivk30k6sj82jdh98yjw2xv4-dms-plugin-hass",
+    "rev": "0b17f836f174fc8b0341d87686f5ab43c90c77a4",
     "rootDir": "",
-    "sha256": "1na1fsna0wznm0zd2inrjz3bkh73vssbh4fbk4ynm95frhpm33z3",
+    "sha256": "0v2diwzcmdbryyx7xc8np69fhri16h8d9nbpngy3bx91lbvgbn2n",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {
