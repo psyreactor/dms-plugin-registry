@@ -441,12 +441,12 @@
     "url": "https://github.com/psyreactor/dms-awcc"
   },
   "calculator": {
-    "date": "2026-04-26T20:40:15+01:00",
+    "date": "2026-04-28T14:15:06+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-62Te69K3bcWNMJHdrg3nTryogo4g80Z7gyE9BZ1CG+Q=",
+    "hash": "sha256-08rpBZpNaYWa8DhdvGFhAD8zI3ezTkxQus6LwoLGuEw=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -468,12 +468,12 @@
       "repo": "https://github.com/rochacbruno/DankCalculator",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://github.com/rochacbruno/DankCalculator/raw/main/screenshot.png",
-      "version": "0.2.3"
+      "version": "0.3.1"
     },
-    "path": "/nix/store/plzin36ff8l2iwmcrb5rsz4js6vagby2-DankCalculator",
-    "rev": "b0c8799ded545615a38e6a6a088cf762aaa7857c",
+    "path": "/nix/store/hj0cqnrp5dk6haa2yl4mnaqsbzl998fm-DankCalculator",
+    "rev": "b8797a9a4068c5fee2a67358b60d82f532969792",
     "rootDir": "",
-    "sha256": "1r0v8afhag91hdxldwr0is1aig2fww6sxpci626wavdpsbmxwr7b",
+    "sha256": "0k5qqs1c52yfp984qkmkfwik6gq0c5hvqp9qy2d8asadk82ykjnk",
     "url": "https://github.com/rochacbruno/DankCalculator"
   },
   "canvasGrades": {
@@ -3322,12 +3322,12 @@
     "url": "https://github.com/ss44/sathi.ai"
   },
   "screenRecorder": {
-    "date": "2026-04-02T21:16:35-06:00",
+    "date": "2026-04-28T12:10:34-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ndH8KHH+gzFIXWceqeUmy/w7oGj7ZvCEIacBfV1D+KU=",
+    "hash": "sha256-/SeQSlPeM0jDHg4yFmR82ODtnVs2bOovVG7TCMjH1vk=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon",
@@ -3352,12 +3352,12 @@
       "repo": "https://github.com/arqueon/dms-screen-recorder",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-screen-recorder/main/assets/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.2.0"
     },
-    "path": "/nix/store/8xzqpn3pmgmzj891d9kv5sa1pvp92vcs-dms-screen-recorder",
-    "rev": "7206b590d69a165d30b5bbb66b033f1a15b49aff",
+    "path": "/nix/store/y0akr6qhxcq8basg6iky5nn43rmbhl7b-dms-screen-recorder",
+    "rev": "40364a8530f4364e2fd6b0eb8802d5fe4f241b8f",
     "rootDir": "",
-    "sha256": "19gq8dfps0d7462g0rpvd2h3pz6b4vjsj7k7bm4330zyf4lgrlcx",
+    "sha256": "1yfnqz40ilvfahpylv1nbffyvq6qgij1cchf3v1lhcyyad5909zx",
     "url": "https://github.com/arqueon/dms-screen-recorder"
   },
   "screenshotToggle": {
@@ -3581,12 +3581,12 @@
     "url": "https://github.com/boutabong/dms-plugins"
   },
   "steamfriends": {
-    "date": "2026-02-21T11:41:16Z",
+    "date": "2026-04-28T21:08:54+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-e2zv0o52HWw1HWfX4NStH9u8z5+gfRKWoCjSWznLduU=",
+    "hash": "sha256-frcNaPWxO3pKwASDwupQJU9wzE6gPTOIgKKHz4SeC7g=",
     "leaveDotGit": false,
     "meta": {
       "author": "Banicnas",
@@ -3608,10 +3608,10 @@
       "repo": "https://github.com/banicans/DMS-SteamFriends",
       "screenshot": "https://raw.githubusercontent.com/banicans/DMS-SteamFriends/main/Screenshot.png"
     },
-    "path": "/nix/store/s92gwlmri8xv6mfh6jwzhgnhzp2wrb35-DMS-SteamFriends",
-    "rev": "b85bb1b7312cbda4aa8715c0bd67d83bb3a23b53",
+    "path": "/nix/store/q621fpl610byniadjcfj5ysrvd8a25ar-DMS-SteamFriends",
+    "rev": "cdfa2cef54339bf4b6bc9f841f2348e13e35c847",
     "rootDir": "",
-    "sha256": "1rbnrcwmpli8l2b14zd0kz7vrnqzmpaf1mv73lsnq7bniv9fyv3v",
+    "sha256": "1f0bks2cz1x2h2436gd09v670kr5a3mc50q4q157lfxiyml0vdvy",
     "url": "https://github.com/banicans/DMS-SteamFriends"
   },
   "stockManager": {
@@ -3798,12 +3798,12 @@
     "url": "https://github.com/fdmarcin/TimeUntil"
   },
   "unifiedTaskbar": {
-    "date": "2026-03-14T15:50:09-04:00",
+    "date": "2026-04-28T11:52:05-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-k4LlpNnKyxSgJLWWq5YpSPrxL72miTM29DMyWExboUo=",
+    "hash": "sha256-JBxh0lU7mNmi6Yogh7NmSgPHAhBPVbu9+8z2HqORe3I=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -3825,10 +3825,10 @@
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/0fprg6c05f66fcqgzrp8sra02n8n5mdq-dms-unified-taskbar",
-    "rev": "4bd35ab2025523f26efe59a6e7780136b78593dd",
+    "path": "/nix/store/sknxy2gxfzrgy972d7a5qf5v1k2k32h0-dms-unified-taskbar",
+    "rev": "bf47a6c64e5a84434d1fd12401de25c243ca67c5",
     "rootDir": "",
-    "sha256": "0jm1bd65hcikyhv372d6plpz3yj856bap5mm4jh19jyav6jfb0lk",
+    "sha256": "0wkvj6iixxnczfyvnmag201cf0sacsrqf84ax6idk61vap962714",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "usbManager": {
