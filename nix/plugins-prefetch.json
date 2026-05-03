@@ -189,12 +189,12 @@
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "animeCalendar": {
-    "date": "2026-04-23T22:58:38+03:00",
+    "date": "2026-05-02T17:17:00+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-FpYhJ3Dgb+a/QKl9Lo69pwAbS3u0AMDpPUUnAjoc4aE=",
+    "hash": "sha256-2TaOmT0ERede3QSJUrNj334cAPUKN3Ta/f2T3VUjfUg=",
     "leaveDotGit": false,
     "meta": {
       "author": "Ricea Ion Raul",
@@ -215,12 +215,12 @@
       "path": "",
       "repo": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin",
       "screenshot": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin/blob/main/screenshots/today-tab.png?raw=true",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
-    "path": "/nix/store/v75fqrbql6i77jxv9gq5cxlzyzawhhfn-DMS-AnimeCalendarPlugin",
-    "rev": "25c372ecbd4790cc37bf373ddd6b4bd61261dd5e",
+    "path": "/nix/store/kca79b02bqaacf72q1z34iqw3avbzzy8-DMS-AnimeCalendarPlugin",
+    "rev": "b27516cbcb4ede6f4946c942e7dbe4e9d9b1bb6e",
     "rootDir": "",
-    "sha256": "18g13hx049s57plw005lgd5in057pn72wzd982zycvz0f0kj35hn",
+    "sha256": "0j3x4daxv4zxzpd78dqayl01qznzcfrm5284vmgffi847ncqwdnr",
     "url": "https://github.com/RiceaRaul/DMS-AnimeCalendarPlugin"
   },
   "appShortcut": {
@@ -4020,12 +4020,12 @@
     "url": "https://github.com/max72bra/DankPluginBingWallpaper"
   },
   "wallpaperCarousel": {
-    "date": "2026-04-13T14:02:08Z",
+    "date": "2026-05-02T11:15:02Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-anAGWzTdzC4M1W/gprCGugHy4/eYoJ4L45URR+eACnA=",
+    "hash": "sha256-ZuOlI7divehQ+90rCMpDllsrGJM+BekGPEk+BUtbR28=",
     "leaveDotGit": false,
     "meta": {
       "author": "yngwe",
@@ -4047,12 +4047,12 @@
       "repo": "https://github.com/motor-dev/wallpaperCarousel",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/motor-dev/wallpaperCarousel/refs/heads/main/screenshot.png",
-      "version": "0.7.6"
+      "version": "0.7.7"
     },
-    "path": "/nix/store/v5q5jzxva50pkspdcs7qaakky5zxzvxn-wallpaperCarousel",
-    "rev": "9d558cce3bb544fc6467e26ec450ab8087b2fda2",
+    "path": "/nix/store/zhnfpfmifjjpkrhw55k8ak070c3y098p-wallpaperCarousel",
+    "rev": "1622defd2907da38e66ad36270e0c65a92f969a6",
     "rootDir": "",
-    "sha256": "0w0ah3klf4cmwc5rx84qyziz40dshsqadq3gsl62xk6x6idhcw3a",
+    "sha256": "0vs7bd5hagj97h3fj19yjcc2nnwn8g50hayxzd8figb2nwisbqv6",
     "url": "https://github.com/motor-dev/wallpaperCarousel"
   },
   "wallpaperDiscovery": {
