@@ -2679,12 +2679,12 @@
     "url": "https://github.com/lpv11/dms-media-controls-plus"
   },
   "mediaFrame": {
-    "date": "2026-01-25T01:46:02Z",
+    "date": "2026-05-07T00:23:14Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-wOSxqpT9gLQ3SbHfu0FpUkp3VVtHGK5IQxOIVQ11sb0=",
+    "hash": "sha256-mvZUHB6ZvqrPqOWd5FQgXSzqV68mlnGB669zJRHpu5c=",
     "leaveDotGit": false,
     "meta": {
       "author": "claymorwan",
@@ -2706,12 +2706,12 @@
       "path": "mediaFrame",
       "repo": "https://codeberg.org/claymorwan/dms-plugins",
       "screenshot": "https://codeberg.org/claymorwan/dms-plugins/raw/branch/master/mediaFrame/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/i07ysflp8mja5520m348lw9cvslmllsr-dms-plugins",
-    "rev": "d214fa56de681cc315e4058e6161ceea3ef5bcfa",
+    "path": "/nix/store/8yv0cr9j1bwwn60wabsp98bcj2qd3g5n-dms-plugins",
+    "rev": "c0de20519e991a0cbf826da5618bc59127a2d4da",
     "rootDir": "",
-    "sha256": "1gdifl6mb20k8d4aw627bdapfjjjd50vppxi94vv907xjjmb3r60",
+    "sha256": "15xvx48jawxgxf0p35i6mxbylb2x41af97g5m37smglr3qf59xls",
     "url": "https://codeberg.org/claymorwan/dms-plugins"
   },
   "mediaPlayer": {
