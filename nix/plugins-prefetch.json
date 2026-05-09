@@ -2431,12 +2431,12 @@
     "url": "https://github.com/mesteryui/DMS_HyprlandSubmap"
   },
   "intervalCommand": {
-    "date": "2026-03-24T09:36:52-04:00",
+    "date": "2026-05-08T14:43:48-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3CfF2jH/S20yWLnlP1WKYldiSnCVtHKwSv7DqU0UaWg=",
+    "hash": "sha256-Qb3PVVkQh4Q8XtOxEgfpQfmsx03RP9f+iWu+kK2myJ0=",
     "leaveDotGit": false,
     "meta": {
       "author": "corcoran",
@@ -2458,10 +2458,10 @@
       "screenshot": "https://raw.githubusercontent.com/corcoran/dms-interval-command/main/screenshots/screenshot.png",
       "version": "0.9.3"
     },
-    "path": "/nix/store/zxnhzcf8q87byxfkrfg9vy0zf0h5f7gc-dms-interval-command",
-    "rev": "e4d16e66d717d090569525b4037deadd8b5bfa3f",
+    "path": "/nix/store/x624j5rxz1j4kb9gqz7dw8i3f3xmvv54-dms-interval-command",
+    "rev": "ae376cdadced65dc373a9b13c2fb447c1da4f316",
     "rootDir": "",
-    "sha256": "0s392i6skhzy9aq75d4mf1564mv2i9akzrdrb0r6sjzz67dca9yw",
+    "sha256": "17f8lsnr1gkbi7zdfgyi9p3srya1x43i5cfkbqy891qhb5awzga1",
     "url": "https://github.com/corcoran/dms-interval-command"
   },
   "kubernetes": {
@@ -4162,12 +4162,12 @@
     "url": "https://github.com/devnullvoid/dms-web-search"
   },
   "worldClock": {
-    "date": "2026-02-26T19:29:58Z",
+    "date": "2026-05-08T12:59:01+01:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-g1MB9gzYQYvn0LuGSbwAzqParC6XOKJK8PtttsdwF14=",
+    "hash": "sha256-FkOC8I5e3XVUyw9OUc2RQ81qnE58UkpHMoEMavkV7CQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bruno Cesar Rocha",
@@ -4190,12 +4190,12 @@
       "repo": "https://github.com/rochacbruno/WorldClock",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/rochacbruno/WorldClock/raw/main/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.3.0"
     },
-    "path": "/nix/store/ivc13p36fys26wjdpydzkx5p7q48k28c-WorldClock",
-    "rev": "061752535b5b38f8290edb7108a25cb5f779d405",
+    "path": "/nix/store/pn3wn8lzncwchw515mzi5497jiank176-WorldClock",
+    "rev": "86612afc20a266521732e77239a90f91dd630990",
     "rootDir": "",
-    "sha256": "0phpf33vcvgvy15a4f4p5sndm8yf02y4k1mvs3kqnhfq1kv02lw3",
+    "sha256": "097c2pwnl341693lllkw9sf6mka3j76m2khgrda7bpayivq84hqn",
     "url": "https://github.com/rochacbruno/WorldClock"
   },
   "worldClockMulti": {
