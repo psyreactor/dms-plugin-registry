@@ -2751,12 +2751,12 @@
     "url": "https://github.com/arrifat346afs/mediaPlayer"
   },
   "mpvpaperWallpaper": {
-    "date": "2026-04-26T11:24:47-04:00",
+    "date": "2026-05-13T16:40:58-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-VmtoP1XxMRQafpMRaWj2SwPJJq7vKvpuP9a710pdzTs=",
+    "hash": "sha256-9DyqKwFqQ579YoFvF5/+fUDDFFcekgIV146x1M1Vwe8=",
     "leaveDotGit": false,
     "meta": {
       "author": "kanghengliu",
@@ -2783,10 +2783,10 @@
       "screenshot": "https://raw.githubusercontent.com/kanghengliu/dms-mpvpaper/main/screenshot.png",
       "version": "1.1.2"
     },
-    "path": "/nix/store/2ip9l4rc2ib83m0idhvc5kqc5ajh109v-dms-mpvpaper",
-    "rev": "9d551bf37da9cf5a34fefd44b51e1a50ffca0e92",
+    "path": "/nix/store/b8h08rp125l36wbj7sylmz3igrk26pjc-dms-mpvpaper",
+    "rev": "6709765bea5ad03c27095a62cb4ca33a193e1345",
     "rootDir": "",
-    "sha256": "0fydbm5dgfyn7xpglapgmqkcj0sbyrl6j4ckgqd18cgialznhssn",
+    "sha256": "1vy1ap6x9ccfswah54hyawac6h3xzsgifvw1cbyrwhva04mslg7l",
     "url": "https://github.com/kanghengliu/dms-mpvpaper"
   },
   "musicLyrics": {
