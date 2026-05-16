@@ -153,12 +153,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
-    "date": "2026-05-01T00:38:42+02:00",
+    "date": "2026-05-15T13:27:39+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-hzy4InZcQC/fRwUoP2QJysY0PIiqdQ1vVjsFBo+EAOs=",
+    "hash": "sha256-BCvsFVwGhsvjdmtiK3MW7931sxaSiZAB6dOnXCUN7f0=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -182,10 +182,10 @@
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshot.png",
       "version": "3.0.0"
     },
-    "path": "/nix/store/7p7xanbiql61mldhvwllkkr8hy6ad89f-dms-amd-gpu-monitor",
-    "rev": "e24521069f0a9a2501c6da8a132ed9454fea1fbe",
+    "path": "/nix/store/qcx0sjrhq20qmpgm28gj4zd5allz0jk7-dms-amd-gpu-monitor",
+    "rev": "430d783232fe00eb4ba046833021353e63c152ed",
     "rootDir": "",
-    "sha256": "1sq0hj7hc19varphsxdai0y39ina15j3ya058zgjyh2wfqibhg47",
+    "sha256": "1zgd1ljmr9ykx40r12cj2srzbpgg2rrjnqkbfviwp1h6bhayqaq4",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "animeCalendar": {
@@ -259,12 +259,12 @@
     "url": "https://github.com/oabragh/AppShortcut"
   },
   "asusControlCenter": {
-    "date": "2025-12-06T13:58:49+05:30",
+    "date": "2026-05-15T21:08:51+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-NsqHA23sp6nw0mhnQ1tCWQwthy3feFhITN0yjM9ZeHs=",
+    "hash": "sha256-2cPnpuRCasGV519Olof26cbzWShkTE6utHh+NKMrh00=",
     "leaveDotGit": false,
     "meta": {
       "author": "pseudofractal",
@@ -289,10 +289,10 @@
       "screenshot": "https://raw.githubusercontent.com/pseudofractal/AsusControl/main/assets/popup.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/a9g8m24i2n1l9gz6is3j12hyv4w1dyp8-AsusControl",
-    "rev": "183cf86b02015cf0467393e8fdb903d81a895166",
+    "path": "/nix/store/8r73zaf3sp6lpkl4zdymjjay5zcb6yr3-AsusControl",
+    "rev": "9b0c4813cb5b6734da5fb4b5d015466f40538a6b",
     "rootDir": "",
-    "sha256": "0yvqb77qqcnx9i45hy6z5n3js32r89dl6rv8sbqak9zcdl1qgjin",
+    "sha256": "0kc75fik8zkqnjp4wk3451cz7ip9ys3rckjzwyaw2sj2wjkfghyr",
     "url": "https://github.com/pseudofractal/AsusControl"
   },
   "audioInhibit": {
@@ -735,12 +735,12 @@
     "url": "https://github.com/zakstam/dms-codexbar"
   },
   "commandRunner": {
-    "date": "2026-05-14T02:15:38-04:00",
+    "date": "2026-05-15T02:28:56-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Vl8yXoqSQX+aQbpj9UHlTHhOUfdgAfAXoOJRYk43y2Y=",
+    "hash": "sha256-o43IyVT901ZzZGDvZKWhlrgMba57thAoqL3+BFaFV74=",
     "leaveDotGit": false,
     "meta": {
       "author": "devnullvoid",
@@ -760,12 +760,12 @@
       "name": "Command Runner",
       "repo": "https://github.com/devnullvoid/dms-command-runner",
       "screenshot": "https://github.com/devnullvoid/dms-command-runner/blob/main/screenshot.png?raw=true",
-      "version": "1.4.0"
+      "version": "1.4.1"
     },
-    "path": "/nix/store/6vzh4fa0ms9i0la5bssa7ky5fwk0549s-dms-command-runner",
-    "rev": "6867e51673b5b211253ecf0d89dda6b86e1ba97e",
+    "path": "/nix/store/gj1cap0b67nvbpp0pv42sjh2jp64kfdi-dms-command-runner",
+    "rev": "35277695de06beadaba701cb94cc8b096b233319",
     "rootDir": "",
-    "sha256": "0rnb6x764lg2l0bz00b0yx8lwy2cwm0zaqxs86d7yhcji9g34psn",
+    "sha256": "1gjphmb09zmxm0l11dkvmrnhrf4nl6jn9vv0cirmdlzxak4wi3d3",
     "url": "https://github.com/devnullvoid/dms-command-runner"
   },
   "customRunningApps": {
@@ -2751,12 +2751,12 @@
     "url": "https://github.com/arrifat346afs/mediaPlayer"
   },
   "mpvpaperWallpaper": {
-    "date": "2026-05-13T16:40:58-04:00",
+    "date": "2026-05-14T23:26:43-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-9DyqKwFqQ579YoFvF5/+fUDDFFcekgIV146x1M1Vwe8=",
+    "hash": "sha256-cu+20xN0JXv1YsQqPCIM2S9ek5Ys0TYZRlHWVlmrTm4=",
     "leaveDotGit": false,
     "meta": {
       "author": "kanghengliu",
@@ -2783,10 +2783,10 @@
       "screenshot": "https://raw.githubusercontent.com/kanghengliu/dms-mpvpaper/main/screenshot.png",
       "version": "1.1.2"
     },
-    "path": "/nix/store/b8h08rp125l36wbj7sylmz3igrk26pjc-dms-mpvpaper",
-    "rev": "6709765bea5ad03c27095a62cb4ca33a193e1345",
+    "path": "/nix/store/0fdfhc7dfsbamkllmaxmfs44q2qzdip9-dms-mpvpaper",
+    "rev": "36e0a3371937b6e76a45daa4758ba112ed77ee64",
     "rootDir": "",
-    "sha256": "1vy1ap6x9ccfswah54hyawac6h3xzsgifvw1cbyrwhva04mslg7l",
+    "sha256": "0vjfmdcmdmji8qckdl9cjs9mwbyr1hi3qan4cbspn9bl2g9vdvvj",
     "url": "https://github.com/kanghengliu/dms-mpvpaper"
   },
   "musicLyrics": {
