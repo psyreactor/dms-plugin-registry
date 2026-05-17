@@ -3002,12 +3002,12 @@
     "url": "https://github.com/antonjah/nix-monitor"
   },
   "nvidiaGpuMonitor": {
-    "date": "2026-02-27T11:48:51+05:30",
+    "date": "2026-05-17T07:06:01+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-QWp3YP/FydQ7JND96bt4sCIodAfR4bwiNiO7tpXcN70=",
+    "hash": "sha256-vUsMgyLiSNr+1reRi0ytEolFbsA553NtZlKmO5jx858=",
     "leaveDotGit": false,
     "meta": {
       "author": "Tejas Jondhale",
@@ -3031,19 +3031,19 @@
       "repo": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/TEJASJONDHALE/dms-nvidia-gpu-monitor/main/Screenshot.png"
     },
-    "path": "/nix/store/q3fzkil17bzm0k73nd451h9ac6fzgh1n-dms-nvidia-gpu-monitor",
-    "rev": "58123831e7bbe04a1aa54c11c172d91f08a8a6f9",
+    "path": "/nix/store/m59s0rhrlw6al6fnc4m2idlv19inivjm-dms-nvidia-gpu-monitor",
+    "rev": "d1e05ade7122d714ffdf6a242d892db8690b016e",
     "rootDir": "",
-    "sha256": "1g9pvjavdfr36qibrqfi0xs2h8mhg2xykzfh4hxx9jf5zxh7fsj1",
+    "sha256": "17zky6c3p9jjcrnp7rrrq1p4b28jmm68p4dpsvzdlj724a1hqjxx",
     "url": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor"
   },
   "pkgUpdate": {
-    "date": "2026-04-19T20:57:08-04:00",
+    "date": "2026-05-16T22:25:37-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-lVGX3QZzqA/VWGduueUO/PMT3b2t8dvQJHRtIUb4wKY=",
+    "hash": "sha256-c0d0urqMo/2O1sDTj48beiv3qWHRpFnBctc1PzKz6pw=",
     "leaveDotGit": false,
     "meta": {
       "author": "rahulmysore23",
@@ -3065,12 +3065,12 @@
       "name": "Package Updates",
       "repo": "https://github.com/rahulmysore23/dms-pkg-update",
       "screenshot": "https://raw.githubusercontent.com/rahulmysore23/dms-pkg-update/main/screenshot.png",
-      "version": "1.0.2"
+      "version": "1.0.5"
     },
-    "path": "/nix/store/k9lvmykjf345skkg3x9n97kfj41fakyv-dms-pkg-update",
-    "rev": "5fa0bda22553da46f907ba8ba647c34337b41dca",
+    "path": "/nix/store/0bwgwr83662vrdsddrqakdaawf3lns4w-dms-pkg-update",
+    "rev": "a17dd21f6f72582ede70646db9d0eefc302d05bc",
     "rootDir": "",
-    "sha256": "19n0z1322vbl4k8dpwddppfi7wzw1vjvjvk7b3ahza3k0vfrflcm",
+    "sha256": "177ancr3ydfpfb0mk96ic6lzfavs3f7qzly0ss7gv8wcpax78ivk",
     "url": "https://github.com/rahulmysore23/dms-pkg-update"
   },
   "polyglot": {
@@ -3798,12 +3798,12 @@
     "url": "https://github.com/fdmarcin/TimeUntil"
   },
   "unifiedTaskbar": {
-    "date": "2026-04-28T11:52:05-04:00",
+    "date": "2026-05-16T21:57:03-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-JBxh0lU7mNmi6Yogh7NmSgPHAhBPVbu9+8z2HqORe3I=",
+    "hash": "sha256-Qnd9VQoRvWV1qP4GQsqAWussiSQm9kWMXvzmjTcptsE=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -3823,12 +3823,12 @@
       "name": "Unified Taskbar",
       "repo": "https://github.com/jslandau/dms-unified-taskbar",
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/sknxy2gxfzrgy972d7a5qf5v1k2k32h0-dms-unified-taskbar",
-    "rev": "bf47a6c64e5a84434d1fd12401de25c243ca67c5",
+    "path": "/nix/store/25h7lxw8xmc8m7pkxdj2y0vhwa642vqh-dms-unified-taskbar",
+    "rev": "1c175cb7f253d6bada00a8e5b83ce19cc4448248",
     "rootDir": "",
-    "sha256": "0wkvj6iixxnczfyvnmag201cf0sacsrqf84ax6idk61vap962714",
+    "sha256": "1hdn54vqvrpwbs64bxi64j4jrsssh35441pym1snbg8i19apsxs2",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "usbManager": {
