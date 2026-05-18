@@ -115,12 +115,12 @@
     "url": "https://github.com/szabolcsf/dms-air-quality"
   },
   "alarmClock": {
-    "date": "2026-02-03T21:48:05+02:00",
+    "date": "2026-05-17T22:47:35+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
+    "hash": "sha256-fBIKUqiYjv+5xCq0f/D5ytEDkuH84gWkyIGWx1G7ZaM=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -146,10 +146,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/alarmClock/alarms.png?raw=true",
       "version": "0.4.0"
     },
-    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
-    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
+    "path": "/nix/store/699yd0qm9r6ix1f5pz1fqnd9r5161v5n-dms-plugins",
+    "rev": "b1bed561304a520af8106adf2608345fb212a809",
     "rootDir": "",
-    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
+    "sha256": "18v5pd8wg5l1r2j0bqpww6907lfaz7q7zd1aqjwzz3lqm190l4kw",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
@@ -551,12 +551,12 @@
     "url": "https://github.com/xi-ve/cat-dms"
   },
   "cavaVisualizer": {
-    "date": "2026-03-10T09:50:21+01:00",
+    "date": "2026-05-17T09:54:02+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-3Cr+PzPkNGWeIrOqucEc/bLh4xndHI/M3k/srBRCdAQ=",
+    "hash": "sha256-nRXJL/3P0prVSPaiRa93775KvE7JkO6os5Xa/1rURyw=",
     "leaveDotGit": false,
     "meta": {
       "author": "ernestowgg",
@@ -580,10 +580,10 @@
       "screenshot": "https://github.com/ernestowgg/cava-visualizer/blob/main/screenshot.png",
       "version": "1.1.1"
     },
-    "path": "/nix/store/c0qhndlbqbrfvaymp5m3gfgnnmqvj0r5-cava-visualizer",
-    "rev": "e4b65a207652bc3204121401fafd5566b8d22c37",
+    "path": "/nix/store/sjjkp03crlvjfiblglvrvckbppn17qnj-cava-visualizer",
+    "rev": "2d08bef95bc7cd170ad5730a27791c9af6d80a52",
     "rootDir": "",
-    "sha256": "013l88aarv2gvv68y76x37iy3cpx3k0vkamk4ag6ad746czzwanw",
+    "sha256": "0b27sidgznlmnflfx4699sy4mgpgfyplb8pn93armlngzlpwj5cx",
     "url": "https://github.com/ernestowgg/cava-visualizer"
   },
   "chineseCalendar": {
@@ -1677,12 +1677,12 @@
     "url": "https://github.com/xyzsteven/dms-displayoutput"
   },
   "displaySettings": {
-    "date": "2026-02-03T21:48:05+02:00",
+    "date": "2026-05-17T22:47:35+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
+    "hash": "sha256-fBIKUqiYjv+5xCq0f/D5ytEDkuH84gWkyIGWx1G7ZaM=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -1706,10 +1706,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/displaySettings/screenshot.png?raw=true",
       "version": "0.1.1"
     },
-    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
-    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
+    "path": "/nix/store/699yd0qm9r6ix1f5pz1fqnd9r5161v5n-dms-plugins",
+    "rev": "b1bed561304a520af8106adf2608345fb212a809",
     "rootDir": "",
-    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
+    "sha256": "18v5pd8wg5l1r2j0bqpww6907lfaz7q7zd1aqjwzz3lqm190l4kw",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "dmsLenovoBatterySettings": {
@@ -2242,12 +2242,12 @@
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
-    "date": "2026-02-03T21:48:05+02:00",
+    "date": "2026-05-17T22:47:35+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
+    "hash": "sha256-fBIKUqiYjv+5xCq0f/D5ytEDkuH84gWkyIGWx1G7ZaM=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -2273,10 +2273,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/gitmojiLauncher/screenshot.png?raw=true",
       "version": "1.2.0"
     },
-    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
-    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
+    "path": "/nix/store/699yd0qm9r6ix1f5pz1fqnd9r5161v5n-dms-plugins",
+    "rev": "b1bed561304a520af8106adf2608345fb212a809",
     "rootDir": "",
-    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
+    "sha256": "18v5pd8wg5l1r2j0bqpww6907lfaz7q7zd1aqjwzz3lqm190l4kw",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "grimblast": {
@@ -4056,12 +4056,12 @@
     "url": "https://github.com/motor-dev/wallpaperCarousel"
   },
   "wallpaperDiscovery": {
-    "date": "2026-02-03T21:48:05+02:00",
+    "date": "2026-05-17T22:47:35+03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8RoEMk8MH+Q145LcbnVMKWSjngcDEw2azlfTL2ZvAMk=",
+    "hash": "sha256-fBIKUqiYjv+5xCq0f/D5ytEDkuH84gWkyIGWx1G7ZaM=",
     "leaveDotGit": false,
     "meta": {
       "author": "lucyfire",
@@ -4087,10 +4087,10 @@
       "screenshot": "https://github.com/Lucyfire/dms-plugins/blob/master/wallpaperDiscovery/screenshot.png?raw=true",
       "version": "2.0.4"
     },
-    "path": "/nix/store/jfq0f79vgyqnpnsf7mvn5cmshiw2pnlx-dms-plugins",
-    "rev": "3a22c32e06d153d6a13bb18b10eb41615c564a05",
+    "path": "/nix/store/699yd0qm9r6ix1f5pz1fqnd9r5161v5n-dms-plugins",
+    "rev": "b1bed561304a520af8106adf2608345fb212a809",
     "rootDir": "",
-    "sha256": "1j80dxk2zlsprsd0s4q30yga6r199isnxp4jwcsy87qc9wr086pi",
+    "sha256": "18v5pd8wg5l1r2j0bqpww6907lfaz7q7zd1aqjwzz3lqm190l4kw",
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "wallpaperShufflerPlugin": {
