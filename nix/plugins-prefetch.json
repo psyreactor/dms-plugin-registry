@@ -2609,12 +2609,12 @@
     "url": "https://github.com/szabolcsf/dms-nameday"
   },
   "markets": {
-    "date": "2026-04-01T10:20:08+02:00",
+    "date": "2026-05-21T10:22:51+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ltC4Fe3ZG0rSeuEcVl96oaChQqSicNZcvLO9E4cMxzo=",
+    "hash": "sha256-Ss56zcaaEhDYWbW2olJuOag7qSk7lXl3l7AMF1rHhus=",
     "leaveDotGit": false,
     "meta": {
       "author": "TMS-Namespace",
@@ -2636,12 +2636,12 @@
       "name": "Markets",
       "repo": "https://github.com/TMS-Namespace/DMS-Markets-Plugin",
       "screenshot": "https://github.com/TMS-Namespace/DMS-Markets-Plugin/blob/main/Images/Dark-Popup.png",
-      "version": "1.0.1"
+      "version": "1.0.2"
     },
-    "path": "/nix/store/xbvmbb1nhw2yfclrs547n7dxfk6dn6w7-DMS-Markets-Plugin",
-    "rev": "be6eb3d0452e1703c34831f1efbf65613df008cf",
+    "path": "/nix/store/dsyzz4jh84h53fw493cdzi5z2jm9343q-DMS-Markets-Plugin",
+    "rev": "3602e9f59565145c2c28e74991f05cae78141bf1",
     "rootDir": "",
-    "sha256": "0fn71j3i7gdkpifdcw52li1a3851g9gmc771gb94l6yrxlavil4n",
+    "sha256": "1sw6qxd1f35hjxvpk59v56lkpa1rdr9a5dmmb7c104lsqv6pmkja",
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
   "mediaControlsPlus": {
