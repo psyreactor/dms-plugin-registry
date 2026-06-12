@@ -1,11 +1,11 @@
 {
   "adguardVPplugin": {
-    "date": "2026-05-28T12:43:01-03:00",
+    "date": "2026-06-12T00:23:04-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fYXgeb3E6xJmn+sSftt/vQzUaZHeNYQ7p363EqLiEl8=",
+    "hash": "sha256-ZE5/IwbXvIsI6Z4o0QA6Mq6jTa47PC6IHFdPqzwc1u4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -30,12 +30,12 @@
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.3.4"
+      "version": "1.4.0"
     },
-    "path": "/nix/store/8wyqhnm8bfjwc13f4jypzjwkq5wcs5aw-dms-adguard-vpn-plugin",
-    "rev": "d443ef1fda5326f8b74c294270dbac3fafa3ecb9",
+    "path": "/nix/store/r6f6kxg1s1m37vvm8yrmkib1dsl7xpwl-dms-adguard-vpn-plugin",
+    "rev": "70c90a4b5ebde492fd8d59864ea2bce2ce55f785",
     "rootDir": "",
-    "sha256": "0pqjwai15dvylwxq8dfyj5lx835xgzdpw4pbkxk15sy4pmwy11bx",
+    "sha256": "1vnn3hyanksp3j42wg1vmr6s7bij780d2a4yx448pg6p0qipykk4",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -3798,12 +3798,12 @@
     "url": "https://github.com/fdmarcin/TimeUntil"
   },
   "unifiedTaskbar": {
-    "date": "2026-05-16T21:57:03-04:00",
+    "date": "2026-06-11T23:09:12-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Qnd9VQoRvWV1qP4GQsqAWussiSQm9kWMXvzmjTcptsE=",
+    "hash": "sha256-SeNAo2S+zWbvrTJI//QQynEfvMyFLj/ieEC1KDzztMs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -3825,10 +3825,10 @@
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
       "version": "1.1.0"
     },
-    "path": "/nix/store/25h7lxw8xmc8m7pkxdj2y0vhwa642vqh-dms-unified-taskbar",
-    "rev": "1c175cb7f253d6bada00a8e5b83ce19cc4448248",
+    "path": "/nix/store/cmhrp6flfglv6ax6sjg99l8b9claaj6d-dms-unified-taskbar",
+    "rev": "488c00693ea86c1c789d39ce6e999322a8d3cf73",
     "rootDir": "",
-    "sha256": "1hdn54vqvrpwbs64bxi64j4jrsssh35441pym1snbg8i19apsxs2",
+    "sha256": "1jxlycy2ida0g3i3ybl5rjy1ywfa23sgyj1jmppndkdycjil1qs9",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "usbManager": {
