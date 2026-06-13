@@ -1,11 +1,11 @@
 {
   "adguardVPplugin": {
-    "date": "2026-06-12T00:23:04-03:00",
+    "date": "2026-06-12T00:49:25-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZE5/IwbXvIsI6Z4o0QA6Mq6jTa47PC6IHFdPqzwc1u4=",
+    "hash": "sha256-nU6j6ek67YcUVT3Aj5lV/lSADC3AFZqm2ZlrvDjCmyk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -32,10 +32,10 @@
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
       "version": "1.4.0"
     },
-    "path": "/nix/store/r6f6kxg1s1m37vvm8yrmkib1dsl7xpwl-dms-adguard-vpn-plugin",
-    "rev": "70c90a4b5ebde492fd8d59864ea2bce2ce55f785",
+    "path": "/nix/store/5fnfzicxd1y1fgfxwk57fp28r2xdi8jr-dms-adguard-vpn-plugin",
+    "rev": "20c012e2f41e741122c0b961d1c12a4a9549274e",
     "rootDir": "",
-    "sha256": "1vnn3hyanksp3j42wg1vmr6s7bij780d2a4yx448pg6p0qipykk4",
+    "sha256": "0acvq8wbqswrv6k9l5f05l680m7yancqzh1xala8gv9sx7ls6klx",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -2609,12 +2609,12 @@
     "url": "https://github.com/szabolcsf/dms-nameday"
   },
   "markets": {
-    "date": "2026-06-05T14:52:55+02:00",
+    "date": "2026-06-12T15:13:32+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Dkcx1eX6FZ8cyHN2DZ5bfiu5mY3Vik3scfocFRi1SJQ=",
+    "hash": "sha256-vyySCXastQa+UxEstG5Ogd9/E1fVJaTnPYsBPcx2l/8=",
     "leaveDotGit": false,
     "meta": {
       "author": "TMS-Namespace",
@@ -2636,12 +2636,12 @@
       "name": "Markets",
       "repo": "https://github.com/TMS-Namespace/DMS-Markets-Plugin",
       "screenshot": "https://github.com/TMS-Namespace/DMS-Markets-Plugin/blob/main/Images/Dark-Popup.png",
-      "version": "1.0.2"
+      "version": "1.0.3"
     },
-    "path": "/nix/store/h6ljarxq1f176n29zbdz0nfkafh1xyy0-DMS-Markets-Plugin",
-    "rev": "31e256c7c45834ee162eca727bf8f3ca2a135c57",
+    "path": "/nix/store/4anvx7xm69jb22b6nn53qf1yfvh2c43d-DMS-Markets-Plugin",
+    "rev": "1398805cd9ac425ebe742e473c1a42d6ee35f730",
     "rootDir": "",
-    "sha256": "1528nlc1a77sf7n4v2nmincvjavybfg0sxkkr0f9y5gswpak2iqf",
+    "sha256": "1zwpfv63s0cb7pks89fmaw9pzpw19rpb8b0iafz0dddcfq4r4b5z",
     "url": "https://github.com/TMS-Namespace/DMS-Markets-Plugin"
   },
   "mediaControlsPlus": {
@@ -3250,12 +3250,12 @@
     "url": "https://github.com/jonkristian/dms-pulsar-x3"
   },
   "qcalCalendar": {
-    "date": "2026-06-11T09:36:31+08:00",
+    "date": "2026-06-12T14:49:22+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-p2sqBWxnMl4qxvYWhx+ZZitwirEilXCYVvgleu8pkEg=",
+    "hash": "sha256-LrIYi8PFKZt3dh/wNfPZO42jnSJKpRZjcX2hqpCBt20=",
     "leaveDotGit": false,
     "meta": {
       "author": "Szabolcs Fazekas",
@@ -3280,10 +3280,10 @@
       "screenshot": "https://github.com/szabolcsf/dms-qcal-calendar/raw/main/screenshot.png",
       "version": "1.1.0"
     },
-    "path": "/nix/store/azciwnp48y1rrp3sci25a91bkss216bh-dms-qcal-calendar",
-    "rev": "271cc05fa3249540994a53a420ecfea6d19eeca0",
+    "path": "/nix/store/zb914z60ipcxf2fpqsfg952mbka06sq3-dms-qcal-calendar",
+    "rev": "c0ca502eeb5827f0ac3987c28adf0b5aea7790e3",
     "rootDir": "",
-    "sha256": "0j4h57ppl9gqasc71592n6570av6k4gqf5pnqqm5wck7dh2jlsx7",
+    "sha256": "0vdph68am8bxf5iid9aa4afs739vv7rkbw0zfrvrnaf5qf5iicif",
     "url": "https://github.com/szabolcsf/dms-qcal-calendar"
   },
   "sathiAi": {
