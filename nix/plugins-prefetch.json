@@ -1935,12 +1935,12 @@
     "url": "https://github.com/MetalCar/dms-dooit-widget"
   },
   "easyEffects": {
-    "date": "2025-12-15T09:52:12+01:00",
+    "date": "2026-06-26T15:17:32+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-q0Xp4RzHd0HgtUZEM4hIES6SDyN8R4lPgQe5aeLMh4c=",
+    "hash": "sha256-FuDIMFZx9KvygoX/otnhrVBSd+NiswzFRU2TSp/kyKg=",
     "leaveDotGit": false,
     "meta": {
       "author": "jonkristian",
@@ -1962,12 +1962,12 @@
       "name": "Easy Effects Profile Switcher",
       "repo": "https://github.com/jonkristian/dms-easyeffects",
       "screenshot": "https://github.com/jonkristian/dms-easyeffects/blob/main/screenshot.png?raw=true",
-      "version": "1.0.4"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/lgx12sqg7l1fs6anl5dmgw3x29gpzimf-dms-easyeffects",
-    "rev": "f50fdb7a110ddb90b7625bc143884fd773c3d5c7",
+    "path": "/nix/store/2s98fj719ah4sy0m5lksq9nl47hxpwp8-dms-easyeffects",
+    "rev": "1c132bf974bcc43db974c7e337b6c6c23526c680",
     "rootDir": "",
-    "sha256": "11w7rki6kf87h57qjivw4c7r4bhi92436i26nph42xy73khyjidb",
+    "sha256": "1a68wjglm4sd8p2hrcv2wdvm4l5dw7cs5zw5hbrapx3iaqqciq0n",
     "url": "https://github.com/jonkristian/dms-easyeffects"
   },
   "emojiLauncher": {
