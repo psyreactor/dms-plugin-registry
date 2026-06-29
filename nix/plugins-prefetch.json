@@ -769,12 +769,12 @@
     "url": "https://github.com/devnullvoid/dms-command-runner"
   },
   "customRunningApps": {
-    "date": "2026-02-03T15:23:06-08:00",
+    "date": "2026-06-28T09:50:09-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-MyC3nyDfkGNlYE4Zkdyk/VBqshlGGbWV6pqP1hc62as=",
+    "hash": "sha256-5hnDBQF6kmWFu7YM440fIkCeZ32TErWjomL9yzqKD7c=",
     "leaveDotGit": false,
     "meta": {
       "author": "Michael Kushma",
@@ -794,12 +794,12 @@
       "name": "Custom Running Apps",
       "repo": "https://github.com/heyitsmikey128/DankCustomRunningApps",
       "screenshot": "https://raw.githubusercontent.com/heyitsmikey128/DankCustomRunningApps/refs/heads/main/screenshot.png",
-      "version": "0.4"
+      "version": "1.0.0"
     },
-    "path": "/nix/store/nw2jjz56qikf8m5yag2ga2dsgra5dhz1-DankCustomRunningApps",
-    "rev": "74ca50c0beb7ad1afcc95d6f6219c880dc8165a5",
+    "path": "/nix/store/wpxbc0n141k2m6nr9jmkai3xis6m2bgb-DankCustomRunningApps",
+    "rev": "87a75c9ae29bda4232f99e1ea85d777f2a5e3140",
     "rootDir": "",
-    "sha256": "1ayr78bxd3wsxaava6a636r6ll7xlkf926afc1jn746z42gvf81k",
+    "sha256": "1dqgi8xcpzb2laiva4lkgmkrwh123y6y635npf2nb4ks042w66g6",
     "url": "https://github.com/heyitsmikey128/DankCustomRunningApps"
   },
   "dankActions": {
@@ -1713,12 +1713,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "dmsLenovoBatterySettings": {
-    "date": "2026-01-20T12:32:28+01:00",
+    "date": "2026-06-28T17:51:02+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-dcHEUWSumgT32TsGeOb84GcPfGbAMqhmQ+sBGN5W52M=",
+    "hash": "sha256-/glhQvb/ZRRW7enXVTUwAUVzf51qrt4a+eaiXgt1/to=",
     "leaveDotGit": false,
     "meta": {
       "author": "neoscaler",
@@ -1741,12 +1741,12 @@
       "name": "Lenovo Battery Settings",
       "repo": "https://github.com/neoscaler/dms-lenovo-battery-settings",
       "screenshot": "https://raw.githubusercontent.com/neoscaler/dms-lenovo-battery-settings/refs/heads/main/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
-    "path": "/nix/store/yrlcvv6cd5hrn7fqr0mwal34sbzw2ypz-dms-lenovo-battery-settings",
-    "rev": "3cbed7f4d0c944eba1b05ed55d5ad88709bcae0d",
+    "path": "/nix/store/q5knlz3w032252kx1i666y5xk2pp880y-dms-lenovo-battery-settings",
+    "rev": "60dc2e76ec14428b543807bf00982fc784fcfe35",
     "rootDir": "",
-    "sha256": "0qz7avg1h0gb8dkahcn0cry0yrz0zkk7h1ivv7vh96mfci8w9hbm",
+    "sha256": "1npyfl5mx8p6z4ddxbkakmzp6i8160smbmz9xmb18rgzyr1622gy",
     "url": "https://github.com/neoscaler/dms-lenovo-battery-settings"
   },
   "dmsPass": {
