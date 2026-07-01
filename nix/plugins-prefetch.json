@@ -4020,12 +4020,12 @@
     "url": "https://github.com/max72bra/DankPluginBingWallpaper"
   },
   "wallpaperCarousel": {
-    "date": "2026-05-18T08:55:03+02:00",
+    "date": "2026-06-30T13:04:07Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/0t6ykbirNgSB2gY1wpq8jbntnuUgME+kLDfwjLhfRg=",
+    "hash": "sha256-t70CBhiEBYHa9HvPpCZnfA8eCOWhUlXc6SUa9VprFNE=",
     "leaveDotGit": false,
     "meta": {
       "author": "yngwe",
@@ -4047,12 +4047,12 @@
       "repo": "https://github.com/motor-dev/wallpaperCarousel",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/motor-dev/wallpaperCarousel/refs/heads/main/screenshot.png",
-      "version": "0.8.2"
+      "version": "0.8.3"
     },
-    "path": "/nix/store/6iv155pvpzcqi4y326vansbafcav8mqv-wallpaperCarousel",
-    "rev": "bca1f457763d51c8001f8edcc89df3e619420163",
+    "path": "/nix/store/icqmhshlgsj79jflmab061wlw86553db-wallpaperCarousel",
+    "rev": "c08fbb92c39d4d778bb08e520cfd96e395594440",
     "rootDir": "",
-    "sha256": "063xw4rc5pxhj0zc304lgfvffdpjd85df6380w9dib728v57ljzz",
+    "sha256": "1l8ldddga6i5x7f5alm1wl41w3vwcwka9kvvykd821c430305gdp",
     "url": "https://github.com/motor-dev/wallpaperCarousel"
   },
   "wallpaperDiscovery": {
