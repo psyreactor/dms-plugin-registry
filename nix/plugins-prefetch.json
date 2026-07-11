@@ -1,11 +1,11 @@
 {
   "adguardVPplugin": {
-    "date": "2026-06-12T00:49:25-03:00",
+    "date": "2026-07-10T19:02:11-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-nU6j6ek67YcUVT3Aj5lV/lSADC3AFZqm2ZlrvDjCmyk=",
+    "hash": "sha256-Up6FiNaPvHnqUjFOWbFcz47jg71RojFX8MzPGt1OLz4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -30,12 +30,12 @@
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.4.0"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/5fnfzicxd1y1fgfxwk57fp28r2xdi8jr-dms-adguard-vpn-plugin",
-    "rev": "20c012e2f41e741122c0b961d1c12a4a9549274e",
+    "path": "/nix/store/z5lircbjvhfrfl0vb9azgfwsg3xx6x9l-dms-adguard-vpn-plugin",
+    "rev": "27016eadaaad1afc05a8b845f1de9df43ffa7172",
     "rootDir": "",
-    "sha256": "0acvq8wbqswrv6k9l5f05l680m7yancqzh1xala8gv9sx7ls6klx",
+    "sha256": "0gig9vfimkycy1bk38jipn1y73ngbjqmjkiiabm7kg4gss48b7jj",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -2005,12 +2005,12 @@
     "url": "https://github.com/devnullvoid/dms-emoji-launcher"
   },
   "ephemera": {
-    "date": "2026-04-30T22:37:52-05:00",
+    "date": "2026-07-10T13:22:07-05:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-G6oanR4zHbNSV+A94mNcB4EHK+S2ieo4dY8bwUEkv2I=",
+    "hash": "sha256-+i7rbacYd7gfXcJtFuzV9GoIDSH8JFsf6H2FXPGMRpQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "nicolasgarcia214",
@@ -2036,10 +2036,10 @@
       "screenshot": "https://github.com/nicolasgarcia214/Ephemera/blob/master/screenshots/screenshot.jpg?raw=true",
       "version": "1.1.0"
     },
-    "path": "/nix/store/dpvfkhg08zphzin13435w4rmkbd1sfmi-Ephemera",
-    "rev": "eaadf6d933a8449f36219935520a8e9f944b4aa0",
+    "path": "/nix/store/hy47iw0ww214sskcyamb6qxgi3qwgbcb-Ephemera",
+    "rev": "172783fccb37e99756f999daa737ced42aeefe4e",
     "rootDir": "",
-    "sha256": "0qmz4i0w26wgflwfm2dnwhmhg087biiy4gg0ax9b679k3sfimahv",
+    "sha256": "1526ikqmr1bxx0gmn97w446hhsplspn1cvf2blgvhxqqlxnynbps",
     "url": "https://github.com/nicolasgarcia214/Ephemera"
   },
   "flatpakUpdates": {
@@ -2204,12 +2204,12 @@
     "url": "https://github.com/boutabong/dms-plugins"
   },
   "gitlabNotifier": {
-    "date": "2026-04-17T21:45:51-03:00",
+    "date": "2026-07-10T18:59:29-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-1uuASmaCUAmkgW6zo5fTT5ijsUmLBV+S7YAvN/3vktM=",
+    "hash": "sha256-EQkP7Wpv7uVa6Y1lhjFMkQvnn1pytby7xKarvDEHBUc=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -2233,12 +2233,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/lc4m3bxm56g29ip1k2ix62qzx0ax046v-dms-gitlabNotifier",
-    "rev": "9c90c4e4869df7132cc16b827d5d14585d0e327c",
+    "path": "/nix/store/25z3mqh3vyck1yxfsl6j9vw2pa8mdg2m-dms-gitlabNotifier",
+    "rev": "0eba0d327ebb0fcd20223ddb2599a02dc0021843",
     "rootDir": "",
-    "sha256": "1lwjxzykfbw0xn95y1cb96qs762gsfbs7cvfh6j0jl42cr581syn",
+    "sha256": "0iq50wqvrax6qjxvrdbjbagyf2wi9hqqcrcdx5dfbvkgdbnhy28i",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
@@ -2319,12 +2319,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-07-09T13:06:19+08:00",
+    "date": "2026-07-10T13:27:04+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-c2uWe9i/uxHYtYQ1upOWksadlcmq/VNN+1KMPvfGDAw=",
+    "hash": "sha256-ugvnYbZOq/F5pOqnZrNuRhLIOFxASpvUNcWxOJWkaWE=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -2349,12 +2349,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "2.0.4"
+      "version": "2.0.5"
     },
-    "path": "/nix/store/fh1hpsfahfz88zmkbf7b9g7qncab5kx4-dms-plugin-hass",
-    "rev": "a90cda73b6e88cbe910fae45d4f12d4d42c17580",
+    "path": "/nix/store/dqx5jgxndsdkmbxqyday677y233vssjn-dms-plugin-hass",
+    "rev": "2c3697e44e25bd91315a10aaa746f22289d812c1",
     "rootDir": "",
-    "sha256": "030cqvvkx32jzd6m7zdar6arviljjs9vldc4npc13fxzv1xrcsvk",
+    "sha256": "0qb9ljakicf56pa9njj0bhwch4j6dsrnd9zaliwz3asfnrhyf2xs",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {
