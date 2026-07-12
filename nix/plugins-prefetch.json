@@ -1,11 +1,11 @@
 {
   "adguardVPplugin": {
-    "date": "2026-07-10T19:02:11-03:00",
+    "date": "2026-07-10T23:29:09-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Up6FiNaPvHnqUjFOWbFcz47jg71RojFX8MzPGt1OLz4=",
+    "hash": "sha256-C1DZGgDr/2IESov23Ud27Mayvd4kFZAfPko4DmTziw0=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -30,12 +30,12 @@
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.5.0"
+      "version": "1.5.1"
     },
-    "path": "/nix/store/z5lircbjvhfrfl0vb9azgfwsg3xx6x9l-dms-adguard-vpn-plugin",
-    "rev": "27016eadaaad1afc05a8b845f1de9df43ffa7172",
+    "path": "/nix/store/cyr9kqx76v156pzihj8j4ka2v5lq4pcc-dms-adguard-vpn-plugin",
+    "rev": "46722e51bdfef43945a4b39b0a32b02b934307eb",
     "rootDir": "",
-    "sha256": "0gig9vfimkycy1bk38jipn1y73ngbjqmjkiiabm7kg4gss48b7jj",
+    "sha256": "03cbydj0wf2a7qgr0594vsyv5ipcfr3xvxlb98265zzb00ddjl0b",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -153,12 +153,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
-    "date": "2026-07-07T11:08:38Z",
+    "date": "2026-07-11T19:04:22+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-HbFiTpbmBtcLffD0krgN3KSUAkpVsdZZyGm2EwTFYms=",
+    "hash": "sha256-wHg1m0cqAeM7nporbHjyE9Q/KH5BteIKWZ41T9Ybt6g=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -182,10 +182,10 @@
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshot.png",
       "version": "3.1.0"
     },
-    "path": "/nix/store/pal69fassv7gx74lycc47a2a8i3na3nf-dms-amd-gpu-monitor",
-    "rev": "6f1ac2b7ebe62e22e76721579d12fa946417285c",
+    "path": "/nix/store/d63jhgfnlazp7h92h8f102p6kvryfywa-dms-amd-gpu-monitor",
+    "rev": "3a2de757ffa8f90ee6401147929103b4bfad7776",
     "rootDir": "",
-    "sha256": "0sv2ql217dk9r1cxdcam9819996w1nw95x7hgl5xf1p6jr765c8x",
+    "sha256": "1a5p3gb4ydcyb45f5da1gql3zm0ky9w6qawskqxy609a8ydkay60",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "animeCalendar": {
@@ -2204,12 +2204,12 @@
     "url": "https://github.com/boutabong/dms-plugins"
   },
   "gitlabNotifier": {
-    "date": "2026-07-10T18:59:29-03:00",
+    "date": "2026-07-11T01:31:20-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-EQkP7Wpv7uVa6Y1lhjFMkQvnn1pytby7xKarvDEHBUc=",
+    "hash": "sha256-uUcJuRq5WKgofookdFblqt6ydqYcr3I7nMRH6KBYdzY=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -2233,12 +2233,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
-    "path": "/nix/store/25z3mqh3vyck1yxfsl6j9vw2pa8mdg2m-dms-gitlabNotifier",
-    "rev": "0eba0d327ebb0fcd20223ddb2599a02dc0021843",
+    "path": "/nix/store/nih0hkz20y9wjhbij1wsyc155yyfhpqx-dms-gitlabNotifier",
+    "rev": "7134f421f18f76a34852b179a9bb85f0e2c80b4f",
     "rootDir": "",
-    "sha256": "0iq50wqvrax6qjxvrdbjbagyf2wi9hqqcrcdx5dfbvkgdbnhy28i",
+    "sha256": "0dkpb2hfhiy4khxp5bqwlrvb5pmawmb7894agqlahn5r3awhjixr",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
@@ -3911,12 +3911,12 @@
     "url": "https://github.com/cwelsys/dms-volume-mixer"
   },
   "voxtype": {
-    "date": "2026-03-28T17:05:46-03:00",
+    "date": "2026-07-11T22:03:24-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-CjPMs3MCXS0qpvJU7Obfi/kTCv0udVUfvH0comz2oHs=",
+    "hash": "sha256-5dmDrlswqmqSWuKbWFTQSrmBS7jS7VF87bI6PYW7C94=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -3939,12 +3939,12 @@
       "repo": "https://github.com/psyreactor/dms-voxtype",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-voxtype/raw/main/screenshot.png",
-      "version": "1.0.3"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/bn85fd6hm2xszyfji60pjcc9c4fngbhi-dms-voxtype",
-    "rev": "85576ed6577ef166af7d64f007e7d7ddcac99dc7",
+    "path": "/nix/store/lpclazz3gn2mgslk8qx5bkkrl44dvcza-dms-voxtype",
+    "rev": "3e763839028e6a763661a6967f3076dd8f12edf3",
     "rootDir": "",
-    "sha256": "0yx0yrna473xphgmax9fzl517ycbvzkfqm7jlqm2sp82ffrwqcqa",
+    "sha256": "1phbpf2ksfmjxmy53vfjp15q3faas1a5i6z2ba96maihbfp87ng5",
     "url": "https://github.com/psyreactor/dms-voxtype"
   },
   "vscodeLauncher": {
