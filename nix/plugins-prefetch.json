@@ -1569,12 +1569,12 @@
     "url": "https://github.com/xxyangyoulin/dms-plugin-developer-utilities"
   },
   "displayManager": {
-    "date": "2026-05-19T15:11:14-03:00",
+    "date": "2026-07-13T09:05:34-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bX4RjBos916ktKWhiYV43DPGk83W3hzw43YcjiSAUvM=",
+    "hash": "sha256-VFM+NjZwTeUI92lEiWN61OMoT75p7PTmPaSZaMo3K7U=",
     "leaveDotGit": false,
     "meta": {
       "author": "felri",
@@ -1596,12 +1596,12 @@
       "name": "Display Manager",
       "repo": "https://github.com/felri/display-manager-plugin-niri-dank-linux",
       "screenshot": "https://raw.githubusercontent.com/felri/display-manager-plugin-niri-dank-linux/refs/heads/main/assets/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/lkfd35k3axjrjb43bk32llx8l0kl764x-display-manager-plugin-niri-dank-linux",
-    "rev": "7dd33c6c7c3f2962af14a735e86f92c44f73ea0c",
+    "path": "/nix/store/m7jp1waqyd8dq3s4i99qdbiqp7dwdgq9-display-manager-plugin-niri-dank-linux",
+    "rev": "f789f12a06793212ece407377ad53668b63f76b4",
     "rootDir": "",
-    "sha256": "1wsjh0j8w73nwgq1rpnnrn9wccywg22qk8d5njj5xxrc3a612zkd",
+    "sha256": "1d9b6z56i6d47pkg9v39pr7jiqylg9iqji39yw4fakbh6qv3wlsl",
     "url": "https://github.com/felri/display-manager-plugin-niri-dank-linux"
   },
   "displayMirror": {
@@ -2204,12 +2204,12 @@
     "url": "https://github.com/boutabong/dms-plugins"
   },
   "gitlabNotifier": {
-    "date": "2026-07-11T01:31:20-03:00",
+    "date": "2026-07-12T23:41:11-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uUcJuRq5WKgofookdFblqt6ydqYcr3I7nMRH6KBYdzY=",
+    "hash": "sha256-Ch2ji5clz2MUcJTj2S9wLLrshn0Wnm1ikcBk/Es0TX4=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -2233,12 +2233,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/nih0hkz20y9wjhbij1wsyc155yyfhpqx-dms-gitlabNotifier",
-    "rev": "7134f421f18f76a34852b179a9bb85f0e2c80b4f",
+    "path": "/nix/store/6hi6yb2833hm24rfimx4j31q81fmbzw6-dms-gitlabNotifier",
+    "rev": "4191319569c7b95f0f150c70c410c6aaca892a53",
     "rootDir": "",
-    "sha256": "0dkpb2hfhiy4khxp5bqwlrvb5pmawmb7894agqlahn5r3awhjixr",
+    "sha256": "0zjd6i5zqr60j5i6v7hngn3frficf0pxkqwlf0a67kr5jy5s678a",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
