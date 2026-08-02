@@ -3287,12 +3287,12 @@
     "url": "https://github.com/szabolcsf/dms-qcal-calendar"
   },
   "sathiAi": {
-    "date": "2026-07-30T23:49:26-04:00",
+    "date": "2026-07-31T22:29:07-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-45Ja8BYZqTiIFNaqPBW48AddydSq2YyRaxN3uQYwn1w=",
+    "hash": "sha256-VAPclvsTMb1zGbZ6EL5rxENRFTWj5ktaP+hyyYzOtrI=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -3313,12 +3313,12 @@
       "name": "Sathi.AI",
       "repo": "https://github.com/ss44/sathi.ai",
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
-      "version": "1.7.0"
+      "version": "1.9.0"
     },
-    "path": "/nix/store/gw741wfi5dhy3b9ib4bm2bm67ld1jjij-sathi.ai",
-    "rev": "9501d11b2ac0fe76f74d9d819acdc2418148f74c",
+    "path": "/nix/store/bsrz767yy8b14bpik9n20p6fyaadn1wd-sathi.ai",
+    "rev": "b767c9ce7ada8267b85dcfdf1630735f836ca02a",
     "rootDir": "",
-    "sha256": "0p4z603bjxqkdf8qrndask4ms1zhp0akrann2j43ia8r2vq5m4p3",
+    "sha256": "1cmnrs6cjwp87xd4prm36lam2hy4dfz10ymn35rvsc8kzfbdq0sl",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "screenRecorder": {
