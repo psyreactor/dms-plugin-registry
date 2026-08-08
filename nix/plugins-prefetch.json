@@ -153,12 +153,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
-    "date": "2026-08-04T22:23:15+02:00",
+    "date": "2026-08-07T20:50:55Z",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-0B1covnslqKrANe28iKVLTFCG0WEBEJjGLP4TlzVBV4=",
+    "hash": "sha256-uKgfStITxvBMJtTDr2+jRpA17vaxHHwqZNSnE7yh8f0=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -180,12 +180,12 @@
       "name": "AMD GPU Monitor",
       "repo": "https://github.com/navidagz/dms-amd-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshot.png",
-      "version": "4.0.0"
+      "version": "4.2.0"
     },
-    "path": "/nix/store/lfydjg2pg8li095d0izadxmkggffi2aj-dms-amd-gpu-monitor",
-    "rev": "2084a650e5369a1f8a9e421e855cc199a12c6a07",
+    "path": "/nix/store/wn5b3z3x71ppivnxz4qd9d98x3lm2vyv-dms-amd-gpu-monitor",
+    "rev": "ebd5564c4a9b070c405e88e36ca1d465f1dd6436",
     "rootDir": "",
-    "sha256": "0ph5smf4xy5k31il41448ldl4c9djlig5dnp02ms55pcz6i5q7fh",
+    "sha256": "1zgil6y179ylchm7q75iyvp3b426ldpszhyl4r6g1ihks951za5q",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "animeCalendar": {
@@ -626,12 +626,12 @@
     "url": "https://github.com/xxyangyoulin/dms-plugin-ccal"
   },
   "claudeCodeUsage": {
-    "date": "2026-07-31T10:26:33+02:00",
+    "date": "2026-08-07T13:32:51+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-/uyWmfbahUkbOPjzW7RRcWJrRR245Pc6cnhPyWeDg0g=",
+    "hash": "sha256-i5FdG7Q7dJfmxxf5b7tB/Gt/Y2h/muYMQg3S+pr7SgQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Nicolas Bellamy",
@@ -653,12 +653,12 @@
       "name": "Claude Code Usage",
       "repo": "https://github.com/titeya/dms-claudecode",
       "screenshot": "https://github.com/titeya/dms-claudecode/raw/master/screenshot.png",
-      "version": "1.3.4"
+      "version": "1.3.5"
     },
-    "path": "/nix/store/krxgx3hgi331rxxv6pvp5dh3dy418mf0-dms-claudecode",
-    "rev": "ff28fd3fbf58e196242ed1b340de5d5feef04e85",
+    "path": "/nix/store/4zi7zridklpkad89ji49qdwii95mgbfr-dms-claudecode",
+    "rev": "4c29b39f8299abbc113bfc085e28f805fde35e10",
     "rootDir": "",
-    "sha256": "0j43hdkwjkvqf8xggr5q3m2nnqkia6s5pwzq70dlk1fsyscrdv7y",
+    "sha256": "012azfdgmlhd886fd6kzd1ipyszw86xnzy8pqzk9fx1vnhdmv4cb",
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "clipboardPlus": {
