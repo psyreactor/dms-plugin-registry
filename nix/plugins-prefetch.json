@@ -2204,12 +2204,12 @@
     "url": "https://github.com/boutabong/dms-plugins"
   },
   "gitlabNotifier": {
-    "date": "2026-07-12T23:41:11-03:00",
+    "date": "2026-08-17T20:52:35-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Ch2ji5clz2MUcJTj2S9wLLrshn0Wnm1ikcBk/Es0TX4=",
+    "hash": "sha256-gUgATzOyBJSjnmshJaGmMZMzBvXU6RPTYoXOMZBW+P4=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -2233,12 +2233,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.2.1"
+      "version": "1.2.2"
     },
-    "path": "/nix/store/6hi6yb2833hm24rfimx4j31q81fmbzw6-dms-gitlabNotifier",
-    "rev": "4191319569c7b95f0f150c70c410c6aaca892a53",
+    "path": "/nix/store/4kkbfixqc2s7jhmy4zm4r6jm79qlp4mp-dms-gitlabNotifier",
+    "rev": "d1376fb4e719f2a62be2858fed36c0ae3680049f",
     "rootDir": "",
-    "sha256": "0zjd6i5zqr60j5i6v7hngn3frficf0pxkqwlf0a67kr5jy5s678a",
+    "sha256": "1zpqas833kl5cb9i7sflyl3374rilshja8bbksir815j6d7h0j41",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
@@ -2319,12 +2319,12 @@
     "url": "https://github.com/TaylanTatli/dms-plugins"
   },
   "homeAssistantMonitor": {
-    "date": "2026-08-04T16:36:08+08:00",
+    "date": "2026-08-17T15:31:21+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-T0jvHC7VPqXslPGsDC1u4wgBkWO6+4bYB4F21sU8D0c=",
+    "hash": "sha256-eZYYAFDdtLD80NV6FVuFsrystpksXP24KfjOebEVjFk=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -2349,12 +2349,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-hass",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
-      "version": "2.0.7"
+      "version": "3.0.0"
     },
-    "path": "/nix/store/k1qjzqm3znmyafqgrr5wyhpxgqjx1927-dms-plugin-hass",
-    "rev": "fcc931b057faac50ab03a722682f73f08ae82c86",
+    "path": "/nix/store/244fk6dbgmkramb6fp6lh837hg2h4pwv-dms-plugin-hass",
+    "rev": "9acf0ae748b1fd4686b763a85b5b65b5d0931c08",
     "rootDir": "",
-    "sha256": "0iqg7k2xcxl10zc8dyxscf8h2273dqnhrb7ijknaagnm5qffyj2g",
+    "sha256": "0ncc2nqpkkpq56wgsp1ck6varg5jhmdiaynms3yb1d6xa001i5kr",
     "url": "https://github.com/xxyangyoulin/dms-plugin-hass"
   },
   "hueManager": {
