@@ -153,12 +153,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "amdGpuMonitor": {
-    "date": "2026-08-07T20:50:55Z",
+    "date": "2026-08-18T21:55:31+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uKgfStITxvBMJtTDr2+jRpA17vaxHHwqZNSnE7yh8f0=",
+    "hash": "sha256-Bnhj7bbnwHue+yN5A65WYEZRek/kX0V2F7WlUl7bpi0=",
     "leaveDotGit": false,
     "meta": {
       "author": "navidagz",
@@ -180,12 +180,12 @@
       "name": "AMD GPU Monitor",
       "repo": "https://github.com/navidagz/dms-amd-gpu-monitor",
       "screenshot": "https://raw.githubusercontent.com/navidagz/dms-amd-gpu-monitor/refs/heads/main/screenshot.png",
-      "version": "4.2.0"
+      "version": "4.2.1"
     },
-    "path": "/nix/store/wn5b3z3x71ppivnxz4qd9d98x3lm2vyv-dms-amd-gpu-monitor",
-    "rev": "ebd5564c4a9b070c405e88e36ca1d465f1dd6436",
+    "path": "/nix/store/31pwqx36dm444izzqrvcqd8c7fsyig5c-dms-amd-gpu-monitor",
+    "rev": "d0f87efb534b86dc07107288c5f86cfeb7ad9cd2",
     "rootDir": "",
-    "sha256": "1zgil6y179ylchm7q75iyvp3b426ldpszhyl4r6g1ihks951za5q",
+    "sha256": "0bd6vdg559dm2xv4apz49xx52ik0asp06y93zfg7ph77nvnn6y06",
     "url": "https://github.com/navidagz/dms-amd-gpu-monitor"
   },
   "animeCalendar": {
