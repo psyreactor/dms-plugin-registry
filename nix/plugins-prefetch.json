@@ -587,12 +587,12 @@
     "url": "https://github.com/ernestowgg/cava-visualizer"
   },
   "chineseCalendar": {
-    "date": "2026-07-21T14:22:28+08:00",
+    "date": "2026-08-20T15:46:25+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-tztOMdaUS29/vrZ4xOE2UOA+2b8r6Sejr91uJ/t68z8=",
+    "hash": "sha256-T214jvsgHv7qx5ShWhXUPoP7XYRirKsjZedwwdS3xRU=",
     "leaveDotGit": false,
     "meta": {
       "author": "xxyangyoulin",
@@ -617,12 +617,12 @@
       "repo": "https://github.com/xxyangyoulin/dms-plugin-ccal",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-ccal/master/assets/screenshot.png",
-      "version": "1.2.3"
+      "version": "1.2.5"
     },
-    "path": "/nix/store/m20s8q3wwgrxymnq5r7ls3mrfrynfklf-dms-plugin-ccal",
-    "rev": "2d7e052e229b260c8ac638e4fa79b312c305de72",
+    "path": "/nix/store/5sig1apgbzp14xdlyq5cmylg4vs8wmr9-dms-plugin-ccal",
+    "rev": "0d43ddcd0dfc96bc72dc7d31200a386f329c0417",
     "rootDir": "",
-    "sha256": "0gzkgbxjfvnxmyijgs9bpzckxq2h6vhw8y5nprznyjwlsqqlwfxp",
+    "sha256": "05f5nzac2w77clispb32hifzp0ryshamm8clqzmgw7i0zf77hvag",
     "url": "https://github.com/xxyangyoulin/dms-plugin-ccal"
   },
   "claudeCodeUsage": {
@@ -4021,12 +4021,12 @@
     "url": "https://github.com/max72bra/DankPluginBingWallpaper"
   },
   "wallpaperCarousel": {
-    "date": "2026-06-30T13:04:07Z",
+    "date": "2026-08-20T08:37:14+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-t70CBhiEBYHa9HvPpCZnfA8eCOWhUlXc6SUa9VprFNE=",
+    "hash": "sha256-/LoehTfSeeqkgIXw46Ll/PrxeEDhg4RZI5BXib6yEnI=",
     "leaveDotGit": false,
     "meta": {
       "author": "yngwe",
@@ -4048,12 +4048,12 @@
       "repo": "https://github.com/motor-dev/wallpaperCarousel",
       "requires_dms": ">=1.2.0",
       "screenshot": "https://raw.githubusercontent.com/motor-dev/wallpaperCarousel/refs/heads/main/screenshot.png",
-      "version": "0.8.3"
+      "version": "0.8.4"
     },
-    "path": "/nix/store/icqmhshlgsj79jflmab061wlw86553db-wallpaperCarousel",
-    "rev": "c08fbb92c39d4d778bb08e520cfd96e395594440",
+    "path": "/nix/store/r0dhqjrh4kdb453v1fxgf98gfd75q6am-wallpaperCarousel",
+    "rev": "761ecd1b7f347beee9f17909f8334d987c935a1a",
     "rootDir": "",
-    "sha256": "1l8ldddga6i5x7f5alm1wl41w3vwcwka9kvvykd821c430305gdp",
+    "sha256": "0whjnaz8jmwh4dcq90z181wg3ypwwnif7w45h2jflyfj6y2ixfpw",
     "url": "https://github.com/motor-dev/wallpaperCarousel"
   },
   "wallpaperDiscovery": {
